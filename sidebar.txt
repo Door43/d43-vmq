@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vmq:home|Door43 (vmq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vmq|d43-vmq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vmq/archive/master.zip|d43-vmq.zip]]
+
+**Recent Changes**
+{{changes>ns = vmq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vmq|Ethnologue data]]
+
